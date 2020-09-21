@@ -7,7 +7,7 @@
 def suma():
     num1 = int(input("Dame un numero: "))
     num2 = int(input("Dame un numero: "))
-    print("la suma es: ", num1 + num2)
+    print("la suma es:", num1 + num2)
 
 
 # Press the green button in the gutter to run the script.
